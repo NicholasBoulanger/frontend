@@ -25,8 +25,8 @@
 
   <hr />
 
-
-LIVE PAGE: https://frontend-production-a666.up.railway.app/
+OFFICIAL PAGE: https://aniflix.pro/
+LIVE MIRROR: https://frontend-production-a666.up.railway.app/
 
   <p align="center">
     The open-source anime streaming service made with NextJs and TailwindCSS. It lets you search, watch animes without any ads with a beautiful ui. It can be self hosted or deployed online.
